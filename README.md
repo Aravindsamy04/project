@@ -208,13 +208,19 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ## Output :
 ## I)Perform ROI from an image
-![op](./1a.png)
-![op](./2a.png)
+![1a](https://github.com/Aravindsamy04/project/assets/113497037/e901b0e6-1b19-475c-b467-bc2e26692169)![2a](https://github.com/Aravindsamy04/project/assets/113497037/d76742cc-48e4-4d1f-9557-5a881132a80e)
+
+
+
 ## II)Perform handwritting detection in an image
-![op](./q1.png)
+![q1](https://github.com/Aravindsamy04/project/assets/113497037/e1ff156b-253e-4dbe-96b2-326245a22845)
+
 ## III)Perform object detection with label in an image
-![op](./qw.png)
-![op](./qe.png)
+![qw](https://github.com/Aravindsamy04/project/assets/113497037/0546fada-3c11-4ce2-81fd-b6fa657ba35c)
+![qe](https://github.com/Aravindsamy04/project/assets/113497037/aafb50f2-282d-4290-91cf-048f21816977)
+
+
+
 ## Result :
 
 Thus a python program using OpenCV is written to do the following image manipulations:
